@@ -2,3 +2,7 @@
 https://api.ipregistry.co/?key=tryout // user country user divice user date time get
 https://ipinfo.io/
 ===============================================
+
+http://www.geoplugin.net/json.gp?ip=103.205.132.217 // google map latitude, longitude
+
+
