@@ -5,4 +5,8 @@ https://ipinfo.io/
 
 http://www.geoplugin.net/json.gp?ip=103.205.132.217 // google map latitude, longitude
 
+$result = json_decode(file_get_contents('http://ip-api.io/json/103.205.132.217'));
+print_r($result);
+
+
 
